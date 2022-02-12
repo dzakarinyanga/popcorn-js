@@ -28,19 +28,19 @@ Community
 The Popcorn.js community is a mix of developers, filmmakers, artists, and everything in between.  If you are interested in using Popcorn.js or helping us build it, you can use one or more of the following:
 
 * [Twitter @popcornjs](https://twitter.com/popcornjs)
-* [Documentation](https://menismu.github.io/popcorn-docs)
-* [File a Bug](https://github.com/menismu/popcorn-js/issues)
+* [Documentation](https://dzakarinyanga.github.io/popcorn-docs)
+* [File a Bug](https://github.com/dzakarinyanga/popcorn-js/issues)
 
 
 For Developers
 -------------
-You can follow the project's bugs and activity [here](https://github.com/menismu/popcorn-js/issues).
+You can follow the project's bugs and activity [here](https://github.com/dzakarinyanga/popcorn-js/issues).
 
 For Plugin Authors
 -------------
 Popcorn.js offers a powerful plugin architecture. Plugins are a way for developers to wrap web functionality and allow it to be placed on a timeline, responding to a point in a video or other media resource.
 
-Take a look at our growing [gallery of officially supported plugins](https://menismu.github.io/popcorn-docs/plugins/).
+Take a look at our growing [gallery of officially supported plugins](https://dzakarinyanga.github.io/popcorn-docs/plugins/).
 
 Have you built a cool plugin, or have an idea for one? Let us know!
 
@@ -61,4 +61,4 @@ Popcorn.js is built and maintained by a growing community, with the support of:
 
 Changelog
 -------------
-A changelog can be found [here](https://github.com/menismu/popcorn-js/releases).
+A changelog can be found [here](https://github.com/dzakarinyanga/popcorn-js/releases).
